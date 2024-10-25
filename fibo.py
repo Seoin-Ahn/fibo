@@ -1,4 +1,4 @@
-# fibonacci sequence
+# fibonacci sequence V1.0
 
 def fibo(num):
 	if num < 3:
